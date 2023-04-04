@@ -2,8 +2,6 @@
 
 Repository dedicata agli appunti di Fisica 1 e 2
 
-
-
 # Lista Dimostrazioni Fisica 1
 
 ## Introduzione: Riferimento cartesiano e vettori
@@ -86,6 +84,124 @@ Queste dimostrazioni possono essere trovate nel file `F1L1L3 - Riferimento Carte
   
   - Limiti delle trasformazioni Galileiane: trasformazioni di Lorentz
 
-
-
 # Lista dimostrazioni Fisica 2
+
+# Lista argomenti lezioni
+
+## Fisica 2 (Lezione 24 >)
+
+### Lezione 24 - Introduzione all'elettromagnetismo
+
+- Flusso del vettore velocità e la sua astrazione
+
+- Circolazione di un vettore e la sua astrazione
+
+- Operatori differenziali
+  
+  - gradiente
+  
+  - divergenza
+  
+  - rotore
+  
+  - Laplaciano di un campo scalare
+  
+  - Laplaciano di un campo vettoriale
+
+### Lezione 25
+
+- Teorema della divergenza
+
+- Teorema del rotore
+
+### Lezione 26
+
+-
+
+### Lezione 27
+
+-
+
+### Lezione 28
+
+-
+
+### Lezione 29
+
+-
+
+### Lezione 30
+
+-
+
+### Lezione 31
+
+-
+
+### Lezione 32
+
+-
+
+### Lezione 33
+
+-
+
+### Lezione 34
+
+-
+
+### Lezione 35
+
+-
+
+### Lezione 36
+
+-
+
+### Lezione 37
+
+-
+
+### Lezione 38
+
+-
+
+### Lezione 39
+
+-
+
+### Lezione 40
+
+-
+
+### Lezione 41
+
+-
+
+### Lezione 42
+
+-
+
+### Lezione 43
+
+-
+
+### Lezione 44
+
+-
+
+### Lezione 45
+
+-
+
+### Lezione 46
+
+-
+
+### Lezione 47
+
+-
+
+### Lezione 48
+
+-
