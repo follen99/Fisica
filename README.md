@@ -2,95 +2,111 @@
 
 Repository dedicata agli appunti di Fisica 1 e 2
 
-# Lista Dimostrazioni Fisica 1
-
-## Introduzione: Riferimento cartesiano e vettori
-
-Queste dimostrazioni possono essere trovate nel file `F1L1L3 - Riferimento Cartesiano E Vettori.pdf`
-
-- Somma tra vettori
-
-- Modulo di un vettore
-
-- Dimostrazione somma tra più vettori (grafica)
-
-- Prodotto scalare (senza conoscere l'angolo compreso)
-
-- Prodotto vettoriale (senza conoscere l'angolo compreso)
-
-- Prodotto vettoriale con matrici
-
-## Cinematica
-
-- Definizione intuitiva della posizione, velocità ed accelerazione
-  
-  - Definizione di derivata come limite del rapporto incrementale
-
-- Moto rettilineo uniforme
-  
-  - Derivazione geometrica delle formule (area del rettangolo)
-  
-  - Derivazione matematica delle formule (integrali)
-
-- Moto uniformemente accelerato
-  
-  - Derivazione geometrica delle formule (area del rettangolo + area del triangolo)
-  
-  - Derivazione matematica delle formule (integrali)
-
-- Moto del proiettile
-  
-  - Componenti orizzontale e verticale del moto (moto rettilineo uniforme e uniformemente accelerato)
-  
-  - Equazioni orarie del moto (Dipendenti dal tempo)
-  
-  - Equazione della traiettoria (Privata del tempo)
-  
-  - Gittata del moto
-  
-  - Equazione che lega la velocità allo spezio privata del tempo
-
-- Velocità Angolare
-  
-  - Relazione che lega l'angolo al tempo
-  
-  - Vettore posizione
-  
-  - Vettore accelerazione
-  
-  - Dimostrazione: il vettore velocità è tangente al vettore Posizione
-  
-  - Periodo e frequenza angolare
-
-- Moto circolare: applicazione della velocità angolare
-  
-  - Introduzione dei versori Mu e Tau
-  
-  - Velocità angolare tramite i versori Mu e Tau
-  
-  - Accelerazione tramite i versori Mu e Tau
-    
-    - Accelerazione centripeta (già vista nella velocità angolare)
-    
-    - Accelerazione tangenziale
-
-- Trasformazioni Galileiane
-  
-  - Derivazione del vettore posizione
-  
-  - Derivazione del vettore velocità
-  
-  - Derivazione del vettore accelerazione
-  
-  - Limiti delle trasformazioni Galileiane: trasformazioni di Lorentz
-
-# Lista dimostrazioni Fisica 2
-
 # Lista argomenti lezioni
 
-## Fisica 2 (Lezione 24 >)
+## Fisica 1
 
-### Lezione 24 - Introduzione all'elettromagnetismo
+### Lezione 1
+
+-
+
+### Lezione 2
+
+-
+
+### Lezione 3
+
+-
+
+### Lezione 4
+
+-
+
+### Lezione 5
+
+-
+
+### Lezione 6
+
+-
+
+### Lezione 7
+
+-
+
+### Lezione 8
+
+-
+
+### Lezione 9
+
+-
+
+### Lezione 10
+
+-
+
+### Lezione 11
+
+-
+
+### Lezione 12
+
+-
+
+### Lezione 13
+
+-
+
+### Lezione 14
+
+-
+
+### Lezione 15
+
+-
+
+### Lezione 16
+
+-
+
+### Lezione 17
+
+-
+
+### Lezione 18
+
+-
+
+### Lezione 19
+
+-
+
+### Lezione 20
+
+-
+
+### Lezione 21
+
+-
+
+### Lezione 22
+
+-
+
+### Lezione 23
+
+-
+
+
+
+## Fisica 2
+
+
+
+### Lezione 24
+
+**INIZIO DEL CAPITOLO SULL'ELETTROSTATICA**
 
 - Flusso del vettore velocità e la sua astrazione
 
@@ -116,23 +132,55 @@ Queste dimostrazioni possono essere trovate nel file `F1L1L3 - Riferimento Carte
 
 ### Lezione 26
 
--
+- Teorema di Coulomb: campo elettrico in prossimità di un conduttore carico
+
+- **Prima equazione di Maxwell**
+
+- Equazione di poisson DA APPROFONDIRE DAGLI APPUNTI PDF
 
 ### Lezione 27
 
--
+- Filo carico (Gauss)
+
+- Strato carico (Gauss)
+
+- Doppio strato carico (Gauss)
+
+- Filo carico di lunghezza l
+
+- Anello carico a distanza z
 
 ### Lezione 28
 
--
+- Introduzione al concetto di **capacità**
+
+- Condensatore piano
+
+- Condensatore sferico
+
+- Condensatore cilindrico: cavo coassiale
+
+- Disco carico
+
+Esercizi: `Esame 19-03-14, Esame 13-04-12`
 
 ### Lezione 29
 
--
+- Condensatori in un circuito
+
+- Energia del campo elettromagnetico
+
+- Dipolo elettrico: calcolo del **potenziale** in un punto P.
 
 ### Lezione 30
 
--
+- Dipolo elettrico: applicazione del potenziale per il calcolo del **campo elettrico**.
+
+**FINE DEL CAPITOLO SULL'ELETTROSTATICA**
+
+**INIZIO DEL CAPITOLO SULLE CORRENTI**
+
+- 
 
 ### Lezione 31
 
