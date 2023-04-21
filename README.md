@@ -98,11 +98,7 @@ Repository dedicata agli appunti di Fisica 1 e 2
 
 -
 
-
-
 ## Fisica 2
-
-
 
 ### Lezione 24
 
@@ -180,15 +176,41 @@ Esercizi: `Esame 19-03-14, Esame 13-04-12`
 
 **INIZIO DEL CAPITOLO SULLE CORRENTI**
 
-- 
+- IV.2. Corrente elettrica
+
+- IV.3. Densità di corrente
+
+- Principio di conservazione della carica elettrica
+
+- Corrente stazionaria
+
+- Prima legge di **Kirchhoff**
+
+- IV.4. Resistenza elettrica e legge di Ohm
 
 ### Lezione 31
 
--
+- Effetto Joule
+
+- Seconda legge di Ohm
+
+- Modello di Drude (per l'effetto Joule)
 
 ### Lezione 32
 
--
+- Forza elettromotrice
+
+- Visione del video su [La forza elettromotrice - YouTube](https://www.youtube.com/watch?v=HsKduCX9Tvk&ab_channel=GabriellaPaltrinieri)
+
+- Legge di Ohm generalizzata
+
+- Legge di Kirchhoff sulle maglie
+
+- Esempio di esercizio di elettrotecnica
+
+- Esercizi di elettromagnetismo per l'esame scritto **<u>(da controllare!)</u>**
+
+- Introduzione al campo magnetico (senza formule!)
 
 ### Lezione 33
 
