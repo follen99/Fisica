@@ -26,7 +26,7 @@
 
 ## 2. Dinamica del punto materiale
 
-- [ ]  2.01 Principio di relatività
+- [ ]  2.01 Principio di relatività  **<u>DA FARE LEZIONE 18</u>**
 - [ ]  2.02 Definizione statica di forza
 - [ ]  2.03 Il 1° principio della dinamica
 - [ ]  2.04 Sistemi di riferimento inerziali e non inerziali
@@ -42,29 +42,29 @@
 - [ ]  2.14 Attrito radente statico e dinamico
 - [ ]  2.15 Dinamica nei sistemi non inerziali
 - [ ]  2.16 Forze apparenti: forza centrifuga e forza di Coriolis
-- [ ]  2.17 Pendolo semplice: moto armonico
+- [x]  2.17 Pendolo semplice: moto armonico
 - [ ]  2.18 Forze elastiche
 - [ ]  2.19 Lavoro di una forza
-- [ ]  2.20 Teorema dell'energia cinetica
-- [ ]  2.21 Concetto di campo
-- [ ]  2.22 Campi scalari e campi vettoriali
-- [ ]  2.23 Campi di forza conservativi
-- [ ]  2.24 La funzione energia potenziale
-- [ ]  2.25 Teorema della conservazione dell'energia meccanica
-- [ ]  2.26 Condizioni di equilibrio per un punto materiale in relazione all'energia potenziale
-- [ ]  2.27 Impulso e quantità di moto: teorema dell'impulso
-- [ ]  2.28 Momento angolare e momento della forza: II equazione cardinale della dinamica
+- [x]  2.20 Teorema dell'energia cinetica
+- [x]  2.21 Concetto di campo
+- [x]  2.22 Campi scalari e campi vettoriali
+- [x]  2.23 Campi di forza conservativi
+- [x]  2.24 La funzione energia potenziale
+- [x]  2.25 Teorema della conservazione dell'energia meccanica
+- [x]  2.26 Condizioni di equilibrio per un punto materiale in relazione all'energia potenziale
+- [x]  2.27 Impulso e quantità di moto: teorema dell'impulso
+- [x]  2.28 Momento angolare e momento della forza: II equazione cardinale della dinamica
 - [ ]  2.29 Potenza.
 
 ## 3. Leggi della dinamica dei sistemi
 
 - [ ]  3.01 Sistemi discreti e continui
-- [ ]  3.02 Forze interne ed esterne
-- [ ]  3.03 Centro di massa
-- [ ]  3.04 Equazioni cardinali della dinamica dei sistemi
+- [x]  3.02 Forze interne ed esterne
+- [x]  3.03 Centro di massa
+- [x]  3.04 Equazioni cardinali della dinamica dei sistemi
 - [ ]  3.05 Moto del centro di massa
 - [ ]  3.06 Sistema di riferimento del centro di massa
-- [ ]  3.07 Teorema di Koenig sul momento angolare
+- [x]  3.07 Teorema di Koenig sul momento angolare
 - [ ]  3.08 Energia cinetica
 - [ ]  3.09 Sistemi isolati e conservazione della quantità di moto e del momento angolare
 - [ ]  3.10 Definizione di corpo rigido
@@ -82,23 +82,31 @@
 - [x]  4.04 Energia potenziale e potenziale elettrico ***lavoro***
 - [x]  4.05 Superfici equipotenziali ***perpendicolare***
 - [x]  4.06 Teorema di Gauss ***flusso attraverso superfici***
-- [ ]  4.07 Teorema di Coulomb
-- [ ]  4.08 Calcolo del campo elettrico in casi semplici
-- [ ]  4.09 Equazioni di Maxwell per l’elettrostatica
+- [x]  4.07 Teorema di Coulomb
+- [x]  4.08 Calcolo del campo elettrico in casi semplici
+  - [x] teorema di coulomb
+  - [x] filo carico
+  - [x] strato carico
+  - [x] doppio strato carico
+  - [ ] filo carico - no gauss
+  - [x] anello carico
+  - [ ] disco carico
+  - [ ] 
+- [x]  4.09 Equazioni di Maxwell per l’elettrostatica
 - [ ]  4.10 Equazione di Poisson
 - [ ]  4.11 Dipoli elettrici
 - [ ]  4.12 Induzione elettrostatica
-- [ ]  4.13 Induzione completa
-- [ ]  4.14 Capacità
-- [ ]  4.15 Condensatori (piano, cilindrico, sferico)
-- [ ]  4.16 Condensatori in serie ed in parallelo
-- [ ]  4.17 Energia del campo elettrostatico.
+- [x]  4.13 Induzione completa
+- [x]  4.14 Capacità
+- [x]  4.15 Condensatori (piano, cilindrico, sferico)
+- [x]  4.16 Condensatori in serie ed in parallelo
+- [x]  4.17 Energia del campo elettrostatico.
 
 ## 5. Corrente elettrica
 
-- [ ]  5.01 Corrente stazionaria
-- [ ]  5.02 Densità di corrente
-- [ ]  5.03 Principio di conservazione della carica ed equazione di continuità
+- [x]  [5.01 Corrente stazionaria]([Electric Current &amp; Circuits Explained, Ohm&#39;s Law, Charge, Power, Physics Problems, Basic Electricity - YouTube](https://www.youtube.com/watch?v=r-SCyD7f_zI&ab_channel=TheOrganicChemistryTutor))
+- [x]  5.02 Densità di corrente
+- [x]  5.03 Principio di conservazione della carica ed equazione di continuità
 - [ ]  5.04 Legge di Ohm
 - [ ]  5.05 Resistenza e sua dipendenza dalle proprietà del conduttore
 - [ ]  5.06 Resistenze in serie e in parallelo
