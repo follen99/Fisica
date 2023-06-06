@@ -162,7 +162,7 @@
   - [x] Esempio: circuito RL
 - [x]  7.06 Corrente di spostamento
 - [x]  7.07 Equazioni di Maxwell complete
-- [ ]  7.08 Dalle equazioni di Maxwell alle equazioni d’onda
+- [x]  7.08 Dalle equazioni di Maxwell alle equazioni d’onda
 - [ ]  7.09 Onde elettromagnetiche piane nel vuoto e loro caratteristiche
 - [ ]  7.10 Numero d’onde, pulsazione, lunghezza d’onda, periodo e velocità di fase
 - [ ]  7.11 Onde longitudinali e onde trasversali
