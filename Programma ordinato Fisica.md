@@ -93,7 +93,7 @@
   - [ ] disco carico
   - [ ] 
 - [x]  4.09 Equazioni di Maxwell per l’elettrostatica
-- [ ]  4.10 Equazione di Poisson
+- [x]  4.10 Equazione di Poisson
 - [ ]  4.11 Dipoli elettrici
 - [ ]  4.12 Induzione elettrostatica
 - [x]  4.13 Induzione completa
@@ -107,41 +107,61 @@
 - [x]  [5.01 Corrente stazionaria]([Electric Current &amp; Circuits Explained, Ohm&#39;s Law, Charge, Power, Physics Problems, Basic Electricity - YouTube](https://www.youtube.com/watch?v=r-SCyD7f_zI&ab_channel=TheOrganicChemistryTutor))
 - [x]  5.02 Densità di corrente
 - [x]  5.03 Principio di conservazione della carica ed equazione di continuità
-- [ ]  5.04 Legge di Ohm
-- [ ]  5.05 Resistenza e sua dipendenza dalle proprietà del conduttore
-- [ ]  5.06 Resistenze in serie e in parallelo
-- [ ]  5.07 Resistività e sua dipendenza dalla temperatura
-- [ ]  5.08 Modello di Drude
-- [ ]  5.09 Effetto Joule
-- [ ]  5.10 Generatori
-- [ ]  5.11 Forza elettromotrice
-- [ ]  5.12 Legge di Ohm generalizzata
-- [ ]  5.13 Leggi di Kirchhoff.
+- [x]  5.04 Legge di Ohm
+- [x]  5.05 Resistenza e sua dipendenza dalle proprietà del conduttore
+- [x]  5.06 Resistenze in serie e in parallelo
+- [x]  5.07 Resistività e sua dipendenza dalla temperatura
+- [ ]  5.08 Modello di Drude **<u>DA FARE</u>**
+- [x]  5.09 Effetto Joule
+- [x]  5.10 Generatori
+- [x]  5.11 Forza elettromotrice
+- [x]  5.12 Legge di Ohm generalizzata
+- [x]  5.13 Leggi di Kirchhoff.
 
 ## 6. Magnetostatica nel vuoto
 
-- [ ]  6.01 Aspetti fenomenologici del magnetismo
-- [ ]  6.02 Definizione di campo d'induzione magnetica e sua rappresentazione grafica
-- [ ]  6.03 Forza di Lorentz e II Formula di Laplace
-- [ ]  6.04 Legge di Biot e Savart e I Formula di Laplace
-- [ ]  6.05 Legge di Ampere
-- [ ]  6.06 Equazioni di Maxwell per la magnetostatica
+- [x]  6.01 Aspetti fenomenologici del magnetismo
+
+- [x]  6.02 Definizione di campo d'induzione magnetica e sua rappresentazione grafica
+
+- [x]  6.03 Forza di Lorentz e II Formula di Laplace
+  
+  - [ ] Spettrometro di massa
+
+- [x]  6.04 Legge di Biot e Savart e I Formula di Laplace
+
+- [x]  6.05 Legge di Ampere
+
+- [x]  6.06 Equazioni di Maxwell per la magnetostatica
+
 - [ ]  6.07 Calcolo di campi magnetici in casi semplici e studio del moto di cariche sottoposte alla forza di Lorentz
-- [ ]  6.08 Potenziale vettore
-- [ ]  6.09 Trasformazioni di gauge
-- [ ]  6.10 Gauge di Coulomb
-- [ ]  6.11 Equazioni dei potenziali e loro soluzione
+  
+  - [x] campo magnetico filo percorso da corrente (1 laplace)
+  - [x] campo magnetico spira
+  - [x] campo magnetico del solenoide
+
+- [x]  6.08 Potenziale vettore
+
+- [x]  6.09 Trasformazioni di gauge
+
+- [x]  6.10 Gauge di Coulomb
+
+- [x]  6.11 Equazioni dei potenziali e loro soluzione
+
 - [ ]  6.12 Teorema di equivalenza di Ampere (campo e potenziale prodotti da una spira di corrente e forza e momento agenti su una spira immersa in un campo magnetico: equivalenza con l’ago magnetico).
 
 ## 7. Campo elettromagnetico
 
-- [ ]  7.01 Induzione elettromagnetica
-- [ ]  7.02 Legge di Faraday-Neumann
-- [ ]  7.03 Legge di Lenz
+- [x]  7.01 Induzione elettromagnetica
+- [x]  7.02 Legge di Faraday-Neumann
+  - [x] flusso tagliato
+  - [x] flusso concatenato
+- [x]  7.03 Legge di Lenz
 - [ ]  7.04 Motorino unipolare
-- [ ]  7.05 Autoinduzione
-- [ ]  7.06 Corrente di spostamento
-- [ ]  7.07 Equazioni di Maxwell complete
+- [x]  7.05 Autoinduzione
+  - [x] Esempio: circuito RL
+- [x]  7.06 Corrente di spostamento
+- [x]  7.07 Equazioni di Maxwell complete
 - [ ]  7.08 Dalle equazioni di Maxwell alle equazioni d’onda
 - [ ]  7.09 Onde elettromagnetiche piane nel vuoto e loro caratteristiche
 - [ ]  7.10 Numero d’onde, pulsazione, lunghezza d’onda, periodo e velocità di fase
