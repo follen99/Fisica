@@ -156,15 +156,15 @@
 - [x]  7.02 Legge di Faraday-Neumann
   - [x] flusso tagliato
   - [x] flusso concatenato
-- [x]  7.03 Legge di Lenz
+- [x]  7.03 Legge di Lenz - lezione 36 1:40
 - [ ]  7.04 Motorino unipolare
 - [x]  7.05 Autoinduzione
   - [x] Esempio: circuito RL
 - [x]  7.06 Corrente di spostamento
 - [x]  7.07 Equazioni di Maxwell complete
 - [x]  7.08 Dalle equazioni di Maxwell alle equazioni d’onda
-- [ ]  7.09 Onde elettromagnetiche piane nel vuoto e loro caratteristiche
-- [ ]  7.10 Numero d’onde, pulsazione, lunghezza d’onda, periodo e velocità di fase
+- [x]  7.09 Onde elettromagnetiche piane nel vuoto e loro caratteristiche
+- [x]  7.10 Numero d’onde, pulsazione, lunghezza d’onda, periodo e velocità di fase
 - [ ]  7.11 Onde longitudinali e onde trasversali
 - [ ]  7.12 Fronte d’onda
 - [ ]  7.13 Principio di sovrapposizione
