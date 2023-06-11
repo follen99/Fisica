@@ -26,25 +26,25 @@
 
 ## 2. Dinamica del punto materiale
 
-- [ ]  2.01 Principio di relatività  **<u>DA FARE LEZIONE 18</u>**
+- [x]  2.01 Principio di relatività  **<u>DA FARE LEZIONE 18</u>**
 - [ ]  2.02 Definizione statica di forza
-- [ ]  2.03 Il 1° principio della dinamica
+- [x]  2.03 Il 1° principio della dinamica
 - [ ]  2.04 Sistemi di riferimento inerziali e non inerziali
-- [ ]  2.05 Forza ed accelerazione: il 2° principio della dinamica
+- [x]  2.05 Forza ed accelerazione: il 2° principio della dinamica
 - [ ]  2.06 La legge della gravitazione universale
 - [ ]  2.07 Forza peso
 - [ ]  2.08 Equivalenza fra massa inerziale e massa gravitazionale
-- [ ]  2.09 Principio di Equivalenza
-- [ ]  2.10 Il 3° principio della dinamica
+- [x]  2.09 Principio di Equivalenza
+- [x]  2.10 Il 3° principio della dinamica
 - [ ]  2.11 Reazioni vincolari
-- [ ]  2.12 Piano inclinato
-- [ ]  2.13 Tensione di un filo
-- [ ]  2.14 Attrito radente statico e dinamico
-- [ ]  2.15 Dinamica nei sistemi non inerziali
-- [ ]  2.16 Forze apparenti: forza centrifuga e forza di Coriolis
+- [x]  2.12 Piano inclinato
+- [x]  2.13 Tensione di un filo
+- [x]  2.14 Attrito radente statico e dinamico
+- [x]  2.15 Dinamica nei sistemi non inerziali
+- [x]  2.16 Forze apparenti: forza centrifuga e forza di Coriolis **<u>lezione 16</u>**
 - [x]  2.17 Pendolo semplice: moto armonico
-- [ ]  2.18 Forze elastiche
-- [ ]  2.19 Lavoro di una forza
+- [x]  2.18 Forze elastiche
+- [x]  2.19 Lavoro di una forza
 - [x]  2.20 Teorema dell'energia cinetica
 - [x]  2.21 Concetto di campo
 - [x]  2.22 Campi scalari e campi vettoriali
@@ -65,12 +65,13 @@
 - [ ]  3.05 Moto del centro di massa
 - [ ]  3.06 Sistema di riferimento del centro di massa
 - [x]  3.07 Teorema di Koenig sul momento angolare
-- [ ]  3.08 Energia cinetica
+- [x]  3.08 Energia cinetica
 - [ ]  3.09 Sistemi isolati e conservazione della quantità di moto e del momento angolare
-- [ ]  3.10 Definizione di corpo rigido
-- [ ]  3.11 Moto traslatorio di un corpo rigido
-- [ ]  3.12 Rotazione di un corpo rigido intorno ad un asse fisso in un sistema inerziale
-- [ ]  3.13 Momento d’inerzia di una sbarra.
+- [x]  3.10 Definizione di corpo rigido
+- [x]  3.11 Moto traslatorio di un corpo rigido
+- [x]  3.12 Rotazione di un corpo rigido intorno ad un asse fisso in un sistema inerziale 
+- [x]  3.13 Momento d’inerzia di una sbarra.
+- [ ] 
 
 # Fisica 2
 
@@ -94,7 +95,7 @@
   - [ ] 
 - [x]  4.09 Equazioni di Maxwell per l’elettrostatica
 - [x]  4.10 Equazione di Poisson
-- [ ]  4.11 Dipoli elettrici
+- [x]  4.11 Dipoli elettrici
 - [ ]  4.12 Induzione elettrostatica
 - [x]  4.13 Induzione completa
 - [x]  4.14 Capacità
