@@ -33,7 +33,7 @@
 - [x]  2.05 Forza ed accelerazione: il 2° principio della dinamica
 - [ ]  2.06 La legge della gravitazione universale
 - [ ]  2.07 Forza peso
-- [ ]  2.08 Equivalenza fra massa inerziale e massa gravitazionale
+- [x]  2.08 Equivalenza fra massa inerziale e massa gravitazionale
 - [x]  2.09 Principio di Equivalenza
 - [x]  2.10 Il 3° principio della dinamica
 - [ ]  2.11 Reazioni vincolari
