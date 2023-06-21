@@ -66,7 +66,7 @@
 - [ ]  3.06 Sistema di riferimento del centro di massa
 - [x]  3.07 Teorema di Koenig sul momento angolare
 - [x]  3.08 Energia cinetica
-- [ ]  3.09 Sistemi isolati e conservazione della quantità di moto e del momento angolare
+- [x]  3.09 Sistemi isolati e conservazione della quantità di moto e del momento angolare
 - [x]  3.10 Definizione di corpo rigido
 - [x]  3.11 Moto traslatorio di un corpo rigido
 - [x]  3.12 Rotazione di un corpo rigido intorno ad un asse fisso in un sistema inerziale 
@@ -89,10 +89,9 @@
   - [x] filo carico
   - [x] strato carico
   - [x] doppio strato carico
-  - [ ] filo carico - no gauss
+  - [x] filo carico - no gauss
   - [x] anello carico
-  - [ ] disco carico
-  - [ ] 
+  - [x] disco carico
 - [x]  4.09 Equazioni di Maxwell per l’elettrostatica
 - [x]  4.10 Equazione di Poisson
 - [x]  4.11 Dipoli elettrici
@@ -112,7 +111,7 @@
 - [x]  5.05 Resistenza e sua dipendenza dalle proprietà del conduttore
 - [x]  5.06 Resistenze in serie e in parallelo
 - [x]  5.07 Resistività e sua dipendenza dalla temperatura
-- [ ]  5.08 Modello di Drude **<u>DA FARE</u>**
+- [x]  5.08 Modello di Drude 
 - [x]  5.09 Effetto Joule
 - [x]  5.10 Generatori
 - [x]  5.11 Forza elettromotrice
@@ -149,7 +148,7 @@
 
 - [x]  6.11 Equazioni dei potenziali e loro soluzione
 
-- [ ]  6.12 Teorema di equivalenza di Ampere (campo e potenziale prodotti da una spira di corrente e forza e momento agenti su una spira immersa in un campo magnetico: equivalenza con l’ago magnetico).
+- [x]  6.12 Teorema di equivalenza di Ampere (campo e potenziale prodotti da una spira di corrente e forza e momento agenti su una spira immersa in un campo magnetico: equivalenza con l’ago magnetico).
 
 ## 7. Campo elettromagnetico
 
