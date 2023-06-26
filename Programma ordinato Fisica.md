@@ -1,5 +1,7 @@
 # Programma ordinato Fisica
 
+Elenco di singole dimostrazioni ordinate con codice (questa lista è stata utilizzata per ordinare un formato cartaceo di questa repository, ma può tornare utile per ripetere.)
+
 # Fisica 1
 
 ## 1. Cinematica del punto materiale

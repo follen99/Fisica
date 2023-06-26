@@ -1,102 +1,10 @@
 # Fisica
 
+![Copertina](assets/Copertina.png)
+
 Repository dedicata agli appunti di Fisica 1 e 2
 
 # Lista argomenti lezioni
-
-## Fisica 1
-
-### Lezione 1
-
--
-
-### Lezione 2
-
--
-
-### Lezione 3
-
--
-
-### Lezione 4
-
--
-
-### Lezione 5
-
--
-
-### Lezione 6
-
--
-
-### Lezione 7
-
--
-
-### Lezione 8
-
--
-
-### Lezione 9
-
--
-
-### Lezione 10
-
--
-
-### Lezione 11
-
--
-
-### Lezione 12
-
--
-
-### Lezione 13
-
--
-
-### Lezione 14
-
--
-
-### Lezione 15
-
--
-
-### Lezione 16
-
--
-
-### Lezione 17
-
--
-
-### Lezione 18
-
--
-
-### Lezione 19
-
--
-
-### Lezione 20
-
--
-
-### Lezione 21
-
--
-
-### Lezione 22
-
--
-
-### Lezione 23
-
--
 
 ## Fisica 2
 
@@ -217,7 +125,6 @@ Esercizi: `Esame 19-03-14, Esame 13-04-12`
 ### Lezione 33
 
 - Visione del video su [TEORIA Magneti naturali e artificiali AMALDI ZANICHELLI - YouTube](https://www.youtube.com/watch?v=g0D9rdmERDE&ab_channel=DIDATTICAMENTE)
-
 - Definizione del campo magnetico
   
   - Definizione "semplice": partendo dalla forza di Coulomb definiamo il campo magnetico come la forza diviso la carica magnetica
@@ -225,18 +132,13 @@ Esercizi: `Esame 19-03-14, Esame 13-04-12`
   - Definizione più complessa: a partire dalla **carica elettrica** si trova la **forza di Lorentz** che descrive il campo magnetico.
   
   - Forza di Lorentz in presenza di un campo magnetico ed elettrico
-
 - <u>Flusso </u>del campo magnetico: **Prima equazione di Maxwell per la magnetostatica.**
   
   - Forma integrale
   
   - Forma differenziale
-
 - Legge di **Biot - Savart**
-
 - Generalizzazione della legge di Biot - Savart: **Prima e seconda formula di Laplace**
-
-- 
 
 ### Lezione 34
 
@@ -309,7 +211,6 @@ INIZIO DEL CAPITOLO SUL CAMPO ELETTROMAGNETICO
 ### Lezione 38
 
 - Considerazioni sulle equazioni di maxwell: ricavare altre equazioni notevoli dalle eq di Maxwell.
-
 - Definire le onde elettromagnetiche a partire dalle equazioni di maxwell
   
   - Isolare il campo magnetico
@@ -319,8 +220,6 @@ INIZIO DEL CAPITOLO SUL CAMPO ELETTROMAGNETICO
   - Trovare **l'equazione dell'onda elettromagnetica**
   
   - La luce è un'onda elettromagnetica
-
-- 
 
 ### Lezione 39
 
@@ -369,34 +268,6 @@ INIZIO DEL CAPITOLO SUL CAMPO ELETTROMAGNETICO
   - Momento agente su un dipolo magnetico immerso in un campo B
   
   - Momento di una spira attraversata da una corrente, immersa in un campo B
-
-
-
-### Lezione 43
-
--
-
-### Lezione 44
-
--
-
-### Lezione 45
-
--
-
-### Lezione 46
-
--
-
-### Lezione 47
-
--
-
-### Lezione 48
-
-- 
-
-- Modello ondulatorio e corpuscolare
 
 ## Materiale aggiuntivo
 
